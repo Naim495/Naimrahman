@@ -50,7 +50,7 @@ Currently, I’m working on projects like **Learning Management System (LMS)**, 
 
 ### 📫 Reach Me At
 
-* Email: [[your-email@example.com](mailto:your-email@example.com)]
+* Email: [[your-email@example.com](016112naimrahman@gmail.com)]
 * LinkedIn: [Your LinkedIn Link]
 * Twitter: [Your Twitter Link]
 
