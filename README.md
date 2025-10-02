@@ -61,10 +61,6 @@ Currently, I’m working on projects like **Learning Management System (LMS)**, 
 * I love exploring **new tech**, reading about **computer architecture & operating systems**, and diving deep into concepts.
 * Outside coding: I enjoy music, traveling, and building cool projects.
 
----
 
-👉 Bonus: তুমি চাইলে আমি তোমার জন্য এতে **GitHub stats, streak counter, এবং top languages badges** যোগ করতে পারি (Hasin Hayder-এর মতো), যেটা খুব eye-catching হবে।
 
----
 
-তুমি কি চাইছো আমি সরাসরি তোমার জন্য **final README.md code with GitHub badges & stats** বানিয়ে দিই?
