@@ -50,9 +50,9 @@ Currently, I’m working on projects like **Learning Management System (LMS)**, 
 
 ### 📫 Reach Me At
 
-* Email: [[your-email@example.com](016112naimrahman@gmail.com)]
-* LinkedIn: [Your LinkedIn Link]
-* Twitter: [Your Twitter Link]
+* Email: 016112naimrahman@gmail.com
+* LinkedIn: Naim Rahman
+
 
 ---
 
@@ -60,7 +60,4 @@ Currently, I’m working on projects like **Learning Management System (LMS)**, 
 
 * I love exploring **new tech**, reading about **computer architecture & operating systems**, and diving deep into concepts.
 * Outside coding: I enjoy music, traveling, and building cool projects.
-
-
-
 
